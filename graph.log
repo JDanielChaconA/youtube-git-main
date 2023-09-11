@@ -1,0 +1,23 @@
+* 58e829a Agregando dos párrafos
+*   bd77c09 Resolviendo conflicto en estaciones del año y fecha de inicio
+|\  
+| * c674c71 Agregando las estaciones del año
+* | 55a700b Agregando estaciones del año confecha de inicio
+|/  
+*   19449a3 Resolviendo conflicto Merge main/html en el documento index.html
+|\  
+| * c6fb6b5 Agregando index.js al index.html
+* | 4480816 Agregando style.css al index.html
+* |   1323a87 Merge branch 'js'
+|\ \  
+| * | db3e511 Creando index.js
+* | | d02f43e Creando style.css
+| |/  
+|/|   
+* | 735be4a Creando index.html
+|/  
+* 1f7bb53 Ignorando archivos .exe
+* a997be3 Rename LICENSE to license.txt
+* df616ab Create LICENSE
+* 72a73da Agregando contenido al README
+* 5ce452c Primer commit

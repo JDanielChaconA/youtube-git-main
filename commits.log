@@ -1,0 +1,100 @@
+commit 58e829a0c3ab46439c31cdd3c16fc8b3a9bf135d
+Author: JDanielChaconA <danielakadanielsan506@gmail.com>
+Date:   Mon Sep 11 10:05:49 2023 -0600
+
+    Agregando dos párrafos
+
+commit bd77c096960fd3ab071fc8ffe7855bf3a61de1a8
+Merge: 55a700b c674c71
+Author: JDanielChaconA <danielakadanielsan506@gmail.com>
+Date:   Mon Sep 11 10:02:38 2023 -0600
+
+    Resolviendo conflicto en estaciones del año y fecha de inicio
+
+commit 55a700b1d9d565ac5da8ae31f0929f82f1db1fcf
+Author: JDanielChaconA <danielakadanielsan506@gmail.com>
+Date:   Mon Sep 11 09:43:32 2023 -0600
+
+    Agregando estaciones del año confecha de inicio
+
+commit c674c71f1ec475076c82d2ba23d02217b28e5b6c
+Author: JDanielChaconA <danielakadanielsan506@gmail.com>
+Date:   Mon Sep 11 09:43:32 2023 -0600
+
+    Agregando las estaciones del año
+
+commit 19449a3fe2050260943b0a7a98501cb69c256d4c
+Merge: 4480816 c6fb6b5
+Author: JDanielChaconA <danielakadanielsan506@gmail.com>
+Date:   Mon Sep 11 09:39:48 2023 -0600
+
+    Resolviendo conflicto Merge main/html en el documento index.html
+
+commit c6fb6b52fce62a121e7140aef19f98de4e399dfa
+Author: JDanielChaconA <danielakadanielsan506@gmail.com>
+Date:   Mon Sep 11 09:33:40 2023 -0600
+
+    Agregando index.js al index.html
+
+commit 4480816012713aa7a2bc944c3c331a48e3734e55
+Author: JDanielChaconA <danielakadanielsan506@gmail.com>
+Date:   Mon Sep 11 09:32:02 2023 -0600
+
+    Agregando style.css al index.html
+
+commit 1323a87d58afb8098a9ea90dbbaebd5e7dcf6ff7
+Merge: d02f43e db3e511
+Author: JDanielChaconA <danielakadanielsan506@gmail.com>
+Date:   Fri Sep 8 10:50:29 2023 -0600
+
+    Merge branch 'js'
+
+commit db3e511dd4fc565668e71af58fe85d1a6e4c4b7e
+Author: JDanielChaconA <danielakadanielsan506@gmail.com>
+Date:   Fri Sep 8 10:45:22 2023 -0600
+
+    Creando index.js
+
+commit d02f43eb2a5f534ea8d59e4fa76d0a3c92272a1f
+Author: JDanielChaconA <danielakadanielsan506@gmail.com>
+Date:   Fri Sep 8 10:41:16 2023 -0600
+
+    Creando style.css
+
+commit 735be4acc1531362cdd130c6d50b910cb7507a82
+Author: JDanielChaconA <danielakadanielsan506@gmail.com>
+Date:   Fri Sep 8 10:38:00 2023 -0600
+
+    Creando index.html
+
+commit 1f7bb538b4d5afbddd36ba0870f62e0ceaeab1f6
+Author: JDanielChaconA <danielakadanielsan506@gmail.com>
+Date:   Fri Sep 8 10:14:09 2023 -0600
+
+    Ignorando archivos .exe
+
+commit a997be3dc97f6db2a34ce1b28b1eb84cdc7053de
+Author: JDanielChaconA <144151830+JDanielChaconA@users.noreply.github.com>
+Date:   Fri Sep 8 10:09:11 2023 -0600
+
+    Rename LICENSE to license.txt
+
+commit df616abb12ecbe4033c8a91df1370100aaa818f4
+Author: JDanielChaconA <144151830+JDanielChaconA@users.noreply.github.com>
+Date:   Fri Sep 8 10:06:37 2023 -0600
+
+    Create LICENSE
+    
+    Creando licencia del repositorio
+
+commit 72a73dad169e74932f4eacf6a294dcb5ab4025fd
+Author: JDanielChaconA <danielakadanielsan506@gmail.com>
+Date:   Fri Sep 8 09:31:06 2023 -0600
+
+    Agregando contenido al README
+
+commit 5ce452cc6aa465f9734a07206cc0e387b8363b6c
+Author: JDanielChaconA <danielakadanielsan506@gmail.com>
+Date:   Wed Sep 6 13:04:19 2023 -0600
+
+    Primer commit
